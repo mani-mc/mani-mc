@@ -1,7 +1,6 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZfy7Ho9elnqJNLMEdKG_2aQs-q8Qz7eAlvw&s)]
 <h1 align="center">Hi 👋, I'm Manikandan</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-<img align="left" alt="Coding" width="400"src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif"/>
+<img align="right" alt="Coding" width="400"src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mani-mc&label=Profile%20views&color=0e75b6&style=flat" alt="mani-mc" /> </p>
 
